@@ -10,9 +10,10 @@
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
- 
 
 ## About me
+
+[![Rochazig GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochazig)](https://github.com/Rochazig/github-readme-stats)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rochazig)](https://github.com/Rochazig)
 
