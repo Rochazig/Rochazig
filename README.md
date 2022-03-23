@@ -13,7 +13,12 @@
 
 ## About me
 
-[![Rochazig GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochazig)](https://github.com/Rochazig/github-readme-stats)
+<a href="https://github.com/Rochazig/Fun-with-DS-and-Algo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochazig&repo=Fun-with-DS-and-Algo&theme=dark" />
+</a>
+<a href="https://github.com/Rochazig">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochazig&theme=dark&hide_langs_below=1" />
+</a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rochazig)](https://github.com/Rochazig)
 
