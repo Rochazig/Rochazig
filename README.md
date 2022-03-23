@@ -13,8 +13,8 @@
 
 ## About me
 
-<a href="https://github.com/Rochazig/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochazig&repo=Fun-with-DS-and-Algo&theme=dark" />
+<a href="https://github.com/Rochazig">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rochazig&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <a href="https://github.com/Rochazig">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochazig&theme=dark&hide_langs_below=1" />
